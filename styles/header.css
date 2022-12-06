@@ -467,7 +467,7 @@ height: 399px;
          border-radius: 50px;
          border: none;
          width: 250px;
-            
+            height: 48px;
         
      }
      .text_profile input,select{
@@ -1232,6 +1232,7 @@ height: 377px;
         border-radius: 50px;
         border: none;
         width: 505px;
+        height: 65px;
 
        
     }
@@ -1977,6 +1978,7 @@ height: 375px;
         border-radius: 50px;
         border: none;
         width: 649px;
+        height: 85px;
     
         margin-left: 45px;
        
