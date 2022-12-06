@@ -1,0 +1,2373 @@
+@media (min-width: 375px) and (max-width: 767px) {
+    body{
+     max-width: 375px;
+     margin-left: auto;
+     margin-right: auto;
+     font-size: 14px;
+    line-height: 19px;
+    } 
+    .container{
+    padding-right: 33px;
+    padding-left: 33px;
+    }
+    header{
+     
+ }
+ 
+ .header-row {
+    padding-top: 9.38px;
+ padding-bottom: 9.11px;
+     max-height: 61.2px;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     
+ }
+ .header-logo{
+    width: 71.09px;
+    height: 42.71px;
+    margin-right: 31.91px;
+ }
+ .header-contact{
+    
+    margin-right: 71.55px;
+    display: flex;
+ 
+     
+ }
+ 
+ .header-networks{
+     display: flex;
+     align-items: center;
+     column-gap:16.9px;
+    
+     
+ }
+ .header-contact>div svg{
+    width: 21.75px;
+    height: 21.15px;
+ }
+ 
+ .header-tel a{
+     display: none;
+ }
+ .header-nav{
+     display: none;
+ }
+
+ .home {
+     padding-top: 62.8px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .block-head{
+    width: 252px;
+    height: 72px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .home-heading {
+     color: #10133A;
+     font-size: 32px;
+     line-height: 44px;
+     
+     font-weight: 700;
+     text-align: center;
+ }
+ 
+ .block-head + * {
+     margin-top: 46px;
+ }
+ 
+ .home-text {
+    font-size: 22px;
+    line-height: 30px;
+     width: 229px;
+     text-align: center;
+     margin-right: auto;
+     margin-left: auto;
+ }
+ .home-img img
+ {
+    display: none;
+ }
+ .home-img2 img
+ {
+     position: relative;
+     margin-top:  29.73px;
+     margin-right: auto;
+     margin-left: auto;
+     display: block;
+ }
+ .btn-head{
+    width: 232px;
+height: 36px;
+font-size: 14px;
+line-height: 19px;
+color: #FFFFFF;
+font-weight: 700;
+background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+border-radius: 53px;
+display: block;
+margin-top: 67px;
+margin-right: auto;
+margin-left: auto;
+ }
+ 
+ .pref_mobile{
+    height: 428px;
+    background: #F4F5FF;
+    padding-top: 54px;
+            }
+    .title_mobile{
+        
+    width: 258px;
+    height: 37px;
+    background: #10133A;
+    border-radius: 3px;
+    padding-top: 10px;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+    .pref_mobile>div img{
+        width: 112.74px;
+        height: 112.74px;
+        margin-bottom: 33.26px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .pref_mobile>div p{
+        font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    width: 271px;
+    color: #343434;
+    display: block;
+    margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 0px;
+        width: 271px;
+        height: 61px;
+    
+    }
+    .pref_mobile div{
+        margin-right: auto;
+        margin-left: auto;
+        
+    }
+    .description_mobile{
+        margin-top: 33px;
+        margin-bottom: 25px;
+       
+    }
+    .indicators_mobile{
+        display: flex;
+        column-gap: 22px;
+        align-items: center;
+        justify-content: center;
+    }
+    .indicators_mobile .btn_mobile{
+        width: 61px;
+    height: 18px;
+    background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+    opacity: 0.2;
+    border-radius: 10px;
+    transition: 0.5s;
+    }
+    .indicators_mobile .active{
+        width: 61px;
+        height: 18px;
+        background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+        opacity: 0.2;
+        border-radius: 10px;
+        transition: 0.5s;
+     opacity: 1;
+    }
+ .pref{
+    display: none;
+ }
+ .pref>div{
+     background-color: #F4F5FF;
+     padding-top: 52px;
+     padding-bottom: 28px;
+     display: flex;
+     column-gap: 25px;
+ }
+ .btn-pref{
+     font-weight: 600;
+     align-self: flex-start;
+     text-align: start;
+ }
+ .btn-pref-active{
+     background-color: #10133A;
+     width: 253px;
+     min-height: 37px;
+     color: white;
+     font-weight: 700;
+     border-left: 5px solid;
+     border-image: 
+     linear-gradient(
+        to bottom, 
+        #F6CF45, 
+        #EF4621
+     ) 1 100%;
+     padding-left: 21px;
+ }
+ .nav-pref{
+    
+     display: flex;
+     flex-direction: column;
+     row-gap: 54px;
+     font-size: 14px;
+     line-height: 19px;
+     width: 257.5px;
+     min-height: 226px;
+     border-right: 5px solid;
+     border-image: 
+     linear-gradient(
+        to top, 
+        #F6CF45, 
+        #EF4621
+     ) 1 100%;
+ }
+ .description{
+     width:324px;
+ }
+  .img{
+     width: 144.4px;
+     height: 144.4px;
+     background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+     border-radius: 10px;
+     position: relative;
+     left: 88.08px;
+     top: 7px;
+     margin-bottom: 44.84px;
+ }
+ .text{
+     font-weight: 700;
+     font-size: 14px;
+     line-height: 19px;
+     text-align: center;
+     color: #343434;
+ }
+ .coach{
+     margin-bottom: 42px;
+     font-size: 16px;
+     line-height: 22px;
+ }
+ .coaches{
+     margin-top: 42px;
+ }
+ .coaches>div>h2{
+     font-weight: 700;
+     font-size: 20px;
+line-height: 27px;
+     display: inline-block;  
+     margin-left:79px ;
+     color: #10133A;
+     padding-bottom: 10.5px;
+     border-bottom: 3px;
+     margin-bottom: 18.5px;
+     border-bottom: 3px solid;
+     border-image: 
+     linear-gradient(
+        to left, 
+        #F6CF45, 
+        #EF4621
+     ) 1;
+    
+ }
+ .coaches>div>p{
+    width: 320px;
+    height: 101px;
+    font-size: 14px;
+line-height: 19px;
+text-align: center;
+margin-bottom: 22px;
+ }
+ .coaches img{
+     width: 320px;
+     height: 222px;
+ }
+ .trainings{
+     margin-top: 22px;
+     margin-bottom: 42px;
+   
+ }
+ .trainings>div{
+    margin-bottom: 22px;
+    min-height: 119px;
+ }
+ .trainings img:nth-child(1){
+    display: none;
+     width: 215.58px;
+     height: 264.29px;
+ }
+ 
+ .trainings>div>h2{
+     font-weight: 700;
+     font-size: 24px;
+ line-height: 33px;
+     display: inline-block;
+     padding-bottom: 10.5px;
+     margin-left: 79px;
+     color: #10133A;
+     border-bottom: 3px solid black;
+     margin-bottom: 20px;
+     border-bottom: 3px solid;
+     border-image: 
+     linear-gradient(
+        to left, 
+        #F6CF45, 
+        #EF4621
+     ) 1;
+ }
+ .trainings>div>p{
+    width: 318px;
+   
+    text-align: center;
+ 
+ }
+ .trainings_img{
+    width: 157px;
+    height: 192px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+ }
+ 
+ 
+ .carousel {
+  
+     position: relative;
+     width: 375px;
+height: 399px;
+     margin-right: auto;
+     margin-left: auto;
+     background-color: #F4F5FF;
+ }
+     
+     .carousel .carousel-window {
+         padding-top: 24px;
+         position: relative;
+         overflow: hidden;
+     }
+     .carousel .carousel-slides {
+         display: flex;
+         transition: transform 0.5s;
+     }
+ 
+     .carousel .carousel-item h2{
+        font-weight: 700;
+        font-size: 24px;
+    line-height: 33px;
+        display: inline-block;
+        padding-bottom: 10.5px;
+        margin-left: 145px;
+        margin-right: 145px;
+        color: #10133A;
+        border-bottom: 3px solid black;
+        margin-bottom: 38px;
+        border-bottom: 3px solid;
+        border-image: 
+        linear-gradient(
+           to left, 
+           #F6CF45, 
+           #EF4621
+        ) 1;
+        
+     }
+         .carousel .carousel-item img {
+             display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 74px;
+         height: 74px;
+         margin-bottom: 22.69px;
+         }
+         .carousel .carousel-item img:nth-child(3){
+             width: 95.74px;
+             height: 15.2px;
+ 
+         }
+         
+         .carousel .carousel-item p{
+             font-weight: 400;
+            
+             text-align: center;
+             width: 282px;
+             margin-top: 25.11px;
+             min-height: 117px;
+             margin-left: auto;
+             margin-right: auto;
+     
+         }
+     .carousel .carousel-prev, .carousel .carousel-next {
+         position: absolute;
+         top: 50%;
+         display: flex;
+         width: 13px;
+         height: 25px;
+         justify-content: center;
+         align-items: center;
+         text-align: center;
+         text-decoration: none;
+         
+     }
+ .carousel-prev-icon, .carousel-next-icon{
+    min-width: 13px;
+    min-height: 25px;
+ }
+     .carousel .carousel-prev {
+         left: 20px;
+         padding: 15px 17px 15px 13px;  
+     
+     }
+     .carousel .carousel-next {
+         right: 20px;
+         padding: 15px 13px 15px 17px;  
+     }
+ 
+    .carousel .carousel-prev:hover, .carousel .carousel-next:hover{
+        background-color: white;
+        border-radius: 50px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+     }
+ 
+     .video{
+         margin-top: 42px;
+         margin-bottom: 42px;
+ 
+     }
+     .video>div iframe{
+        width: 350px;
+        height: 206px;
+        margin-left: -20px;
+     }
+ 
+ 
+     .form{
+         
+        width: 337px;
+         margin-right: auto;
+         margin-left: auto;
+         margin-bottom: 42px;
+     }
+     .text_profile input[type=text],[type=tel],select{
+         background-color: rgba(16, 19, 58,0.15);
+         border-radius: 50px;
+         border: none;
+         width: 250px;
+            
+        
+     }
+     .text_profile input,select{
+         font-family: inherit;
+         color: black;
+ 
+     }
+ 
+     .text_profile label:not(.form-radio-hidden){
+
+         width: 77px;
+         display: inline-flex;
+         
+ 
+     }
+      .text_profile{
+         display: flex;
+         flex-direction: column;
+         row-gap: 39px;
+         align-items: flex-start;
+     }
+     .profile .head{
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 27px;
+        text-align: center;
+        width: 250px;
+        display: block;
+         padding-bottom: 15.5px;
+         color: #10133A;
+         border-bottom: 3px solid black;
+         margin-bottom: 35px;
+         border-bottom: 3px solid;
+         border-image: 
+         linear-gradient(
+            to left, 
+            #F6CF45, 
+            #EF4621
+         ) 1;
+         margin-left: auto;
+         margin-right: auto;
+     }
+ 
+     .text_profile select {
+         appearance: none;
+         background: url(../img/line3.svg)  no-repeat  rgba(16, 19, 58,0.15);
+        
+         background-position: right 23px center;
+         -webkit-appearance: none;
+         appearance:none;
+         }
+         select:focus {
+             background: url(../img/Vector\ 33.svg) no-repeat right  rgba(16, 19, 58,0.15);
+             background-position: right 23px center;
+         }
+         
+     .address {
+         margin-bottom: 31px;
+         display: flex;
+         flex-direction: row;
+             }
+             .address1{
+                 display: flex;
+                 flex-direction: column;
+                 row-gap: 14px;
+                 justify-content: flex-start;
+               
+             }
+     
+             .form-radio-hidden{
+                 display: flex;
+                 flex-direction: row;
+                 position: relative;
+                 align-items: center;
+               }
+               
+               /* Скрываем штатные радио-кнопки */
+               .form-radio-hidden input{
+                 position: absolute;
+                 opacity: 0;
+                 display: block;
+                 height: 0;
+                 width: 0;
+               }
+               
+               /* Устанавливаем параметры элементов, заменяющих штатные радио-кнопки */
+               .form-radio-hidden .radio{
+                 appearance: none;
+                 -webkit-appearance: none;
+                 -moz-appearance: none;
+                 display: block;
+                 position: relative;
+                 width: 30px;
+                 height: 29px;
+                 border-radius: 50%;
+                 border: 2px solid black;
+                 background-color: white;
+                 box-shadow: 0 0 4px 0 rgba(0,0,0,0.1);
+                 outline: none;
+                 box-sizing: border-box;
+                 transition: .5s all;
+               }
+               
+               /* Устанавливаем параметры элементов, заменяющих штатные радио-кнопки при наведении */
+               .form-radio-hidden:hover .radio{
+                 background-color: white;
+                 box-shadow: inset 1px 2px 3px 0 rgba(0,0,0,0.1);
+               }
+               
+               /* Устанавливаем параметры элементов, заменяющих штатные выбранные радио-кнопки */
+               .form-radio-hidden input:checked + .radio{
+                 border-color: black;
+                 background-color: white;
+                 box-shadow: inset 1px 2px 3px 0 rgba(0,0,0,0.1);
+               }
+               
+               /* Добавляем декор */
+               .form-radio-hidden:hover .radio::before, .form-radio-hidden input:checked + .radio::before{
+                 content: '';
+                 position: absolute;
+                 width: 12px;
+height: 11px;
+                 border-radius: 7px;
+                 background-color: black;
+                 top: 50%;
+                 left: 50%;
+                 transform: translate(-50%,-50%);
+               }
+               .form-radio-hidden input:checked + .radio::before{
+                 background-color: black;
+                 box-shadow: 1px 2px 2px 0 rgba(0,0,0,0.2);
+               }
+               
+               /* Устанавливаем параметры подписей радио-кнопок */
+               .form-radio-hidden input + .radio + .label{
+                 color: #777;
+                 font-family: inherit;
+                 margin-left: 21px;
+                 align-self: center;
+                 color: #000000;
+               }
+               
+                 .profile button{
+                    width: 144px;
+                    height: 39px;
+                     background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+                     border-radius: 50px;
+                     font-weight: 700;
+                     
+                     color: #FFFFFF;
+                     position: relative;
+                     left: 50%;
+                     transform: translate(-50%, 0);
+                 }
+      .map{
+        
+      }
+      .mapblock{
+         max-width: 375px;
+        height: 100%;
+         margin-left: auto;
+         width: 100%;
+         
+         
+      }
+      .mapcall{
+        height: 137px;
+         background-color: #F4F5FF;
+         padding-top:33px;
+         
+      }
+      
+     .mapcontact{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+        column-gap: 25px;
+        margin-left: 14px;
+         height: 137px;
+     }
+     .mapcontact h2{
+        display: none;
+     }
+     .map-tel:nth-child(1) svg{
+        margin-right: 7.14px;
+        width: 13.86px;
+height: 13.67px;
+
+     }
+     .map-tel:nth-child(2) svg{
+         margin-right: 13.44px;
+         width: 12.56px;
+         height: 17.12px;
+      }
+     .map-tel:nth-child(2){
+        font-size: 12px;
+        line-height: 16px;
+height: 36px;
+
+       
+     }
+     .street{
+         margin-left: 29px;
+     }
+        .mapcontact button,.modal button{
+            width: 152.07px;
+            height: 22.91px;
+         background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+         border-radius: 50px;
+         font-weight: 700;
+         font-size: 13px;
+line-height: 18px;
+         color: #FFFFFF;
+       
+        } 
+        .mapcontact button{
+            position: relative;
+            left: 50%;
+            top: -78px;
+            transform: translate(-50%, 0);
+        }
+        .overlay {
+    
+         /* Скрываем подложку  */
+         opacity: 0;
+         visibility: hidden;
+         
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: 100%;
+         background-color: rgba(0, 0, 0, .5);
+         z-index: 20;
+         transition: .3s all;
+      }
+      
+      
+      /* Стили для модальных окон */
+      
+      .modal {
+         
+         /* Скрываем окна  */
+         opacity: 0;
+         visibility: hidden;
+         
+         
+         /*  Установаем ширину окна  */
+         width: 255px;
+        height: 293px;
+         
+         /*  Центрируем и задаем z-index */
+         position: fixed;
+         top: 50%;
+         left: 50%;
+         transform: translate(-50%, -50%);
+         z-index: 30; /* Должен быть выше чем у подложки*/
+         
+         /*  Побочные стили   */
+         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+         border-radius: 10px;
+         text-align: center;
+         padding: 32px 16.04px 32px 14px;
+         background-color: #F4F5FF;
+         transition: 0.3s all;
+      }
+      
+      
+      /* Стили для активных классов подложки и окна */
+      
+      .modal.active,
+      .overlay.active{
+         opacity: 1;
+         visibility: visible;
+      }
+      
+      
+      /* Стили для кнопки закрытия */
+      
+      .modal__cross {
+        width: 12.57px;
+         height:  12.57px;
+         position: absolute;
+         top: 9px;
+         right: 7.15px;
+      }
+      .modal>div{
+         display: flex;
+         flex-direction: column;
+      }
+      .modal>div p{
+        
+      }
+      .modal__title{
+         font-weight: 700;
+         font-size: 18px;
+line-height: 25px;
+         text-align: center;
+         color: #10133A;
+         margin-bottom: 35px;
+      }
+      input,select{
+        padding-left: 15px;
+     }
+ 
+      .modal input{
+        padding: 0px;
+        padding-left: 10.71px;
+         width: 140.67px;
+         height: 20.73px;
+         margin-top: 35px;
+         background-color: rgba(16, 19, 58,0.15);
+         border-radius: 50px;
+         border: none;
+         margin-left:9.25px;
+         font-size: 13px;
+         line-height: 18px;
+         
+      }
+      .modal label{
+ margin-right: auto;
+      }
+      .modal input::placeholder{
+        font-size: 13px;
+         line-height: 18px;
+      }
+      .modal button{
+         margin-top: 35.27px;
+         margin-left:auto;
+         margin-right: auto;
+      }
+      
+ 
+     .footer-nav li{
+         display: none;
+         flex-direction: row;
+         align-items: center;
+         justify-content: space-between;
+         column-gap: 49px;
+         color:  white;
+     }
+     .footer-nav img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 59px;
+        height: 34px;
+     }
+     footer{
+         height: 55px;
+     }
+     
+ 
+ }
+
+
+@media (min-width: 768px) and (max-width: 1439px) {
+   body{
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 22px;
+   } 
+   .container{
+    padding-left: 64px;
+    padding-right: 65px;
+   }
+   header{
+    font-size: 16px;
+}
+.burger{
+    display:none;
+}
+.header-row {
+   padding-top: 19.2px;
+padding-bottom: 18.67px;
+    max-height: 235px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-logo img{
+    width: 145.6px;
+    height: 87.47px;
+}
+.header-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    row-gap: 12px;
+}
+
+.header-contact>div{
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+}
+.header-contact>div svg{
+    width: 23.19px;
+    height: 22.51px;
+}
+
+.header-contact>div a:first-child{
+    padding-left: 13px;
+
+}
+.header-contact>div img{
+    width: 14px;
+    height: 14px;
+    margin-top: 4.5px;
+    margin-right: 8.2px;
+
+}
+.header .logo{
+    transition: 0.7s;
+}
+.header .logo:hover{
+    fill: #777;
+   
+}
+.header-tel{
+    border: solid #10133A 2px;
+    border-radius: 50px;
+    font-size: 12px;
+    width: 159.47px;
+    height: 43.2px;
+}
+.header-nav{
+    background-color: #10133A;
+    height: 32.53px;
+    padding-left: 64px;
+    padding-top: 5.67px;
+}
+.header-nav ul{
+    display: flex;
+    column-gap: 90px;
+    color:  white;
+    
+}
+.header-nav a{
+    display: inline-block;
+    width: 100px;
+    
+}
+.menu{
+    display: none;
+}
+.home {
+
+    height:416px;
+    padding-top: 22.65px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 85px;
+}
+.home-heading {
+    margin-top: 28.81px;
+    margin-bottom: 28px;
+	color: #10133A;
+	font-size: 32px;
+    line-height: 44px;
+    width: 368px;
+    font-weight: 700;
+}
+
+.home-heading + * {
+	margin-top: 28px;
+}
+
+.home-text {
+	font-size: 22px;
+    line-height: 30px;
+	max-width: 302px;
+    height: auto;
+}
+.btn-head
+{width: 294px;
+   min-height: 47px;
+        background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+        border-radius: 50px;
+        font-weight: 700;
+        font-size: 16px;
+line-height: 22px;
+        color: #FFFFFF;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+        margin-top: 64px;
+
+}
+.home-img
+{
+	position: relative;
+    width: 309.03px;
+    top: -320.19px;
+    left: 351px;
+}
+
+.home-img2{
+    display: none;
+}
+.pref>div{
+    background-color: #F4F5FF;
+    padding-top: 52px;
+    padding-bottom: 28px;
+    display: flex;
+    column-gap: 25px;
+}
+.btn-pref{
+    font-weight: 600;
+    align-self: flex-start;
+    text-align: start;
+}
+.btn-pref-active{
+    background-color: #10133A;
+    width: 253px;
+    min-height: 37px;
+    color: white;
+    font-weight: 700;
+    border-left: 5px solid;
+    border-image: 
+    linear-gradient(
+       to bottom, 
+       #F6CF45, 
+       #EF4621
+    ) 1 100%;
+    padding-left: 21px;
+}
+.nav-pref{
+   
+    display: flex;
+    flex-direction: column;
+    row-gap: 54px;
+    font-size: 14px;
+    line-height: 19px;
+    width: 257.5px;
+    min-height: 226px;
+    border-right: 5px solid;
+    border-image: 
+    linear-gradient(
+       to top, 
+       #F6CF45, 
+       #EF4621
+    ) 1 100%;
+}
+.pref_mobile{
+    display: none;
+}
+.description{
+    width:324px;
+}
+ .img{
+    width: 144.4px;
+    height: 144.4px;
+    background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+    border-radius: 10px;
+    position: relative;
+    left: 88.08px;
+    top: 7px;
+    margin-bottom: 44.84px;
+}
+.text{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #343434;
+}
+.coach{
+    margin-bottom: 51.71px;
+    font-size: 16px;
+    line-height: 22px;
+}
+.coaches{
+    display: flex;
+    margin-top: 51px;
+}
+.coaches>div>h2{
+    font-weight: 700;
+    font-size: 24px;
+line-height: 33px;
+    display: inline-block;  
+    color: #10133A;
+    padding-bottom: 13.5px;
+    border-bottom: 3px solid black;
+    margin-bottom: 11px;
+    border-bottom: 3px solid;
+    border-image: 
+    linear-gradient(
+       to left, 
+       #F6CF45, 
+       #EF4621
+    ) 1;
+   
+}
+.coaches>div>p{
+    width: 320px;
+    min-height: 133px;
+}
+.coaches img{
+    width: 320px;
+    height: 222px;
+}
+.trainings{
+    display: flex;
+    column-gap: 102.42px;
+    margin-top: 23px;
+  
+}
+.trainings img{
+    width: 215.58px;
+    height: 264.29px;
+}
+.trainings>div{
+    text-align: end;
+}
+.trainings>div>h2{
+    font-weight: 700;
+    font-size: 24px;
+line-height: 33px;
+    display: inline-block;
+    padding-bottom: 13.5px;
+    color: #10133A;
+    border-bottom: 3px solid black;
+    margin-top: 34.29px;
+    margin-bottom: 11.71px;
+    border-bottom: 3px solid;
+    border-image: 
+    linear-gradient(
+       to left, 
+       #F6CF45, 
+       #EF4621
+    ) 1;
+}
+.trainings>div>p{
+    width: 318px;
+    min-height: 154px;
+
+}
+
+
+.carousel {
+ 
+    position: relative;
+    width: 768px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F4F5FF;
+     height: 370px;
+}
+    
+    .carousel .carousel-window {
+        padding-top: 24px;
+        position: relative;
+        overflow: hidden;
+    }
+    .carousel .carousel-slides {
+        display: flex;
+        transition: transform 0.5s;
+    }
+
+    .carousel .carousel-item h2{
+        display: block;
+        font-weight: 700;
+        padding-bottom: 13.5px;
+        color: #10133A;
+        border-bottom: 3px solid black;
+        margin-bottom: 14.21px;
+        margin-right: 333px;
+        margin-left: 333px;
+        text-align: center;
+        border-bottom: 3px solid;
+    border-image: 
+    linear-gradient(
+       to left, 
+       #F6CF45, 
+       #EF4621
+    ) 1;
+       
+    }
+        .carousel .carousel-item img {
+            display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 105.61px;
+        height: 105.61px;
+        margin-bottom: 25.87px;
+        }
+        .carousel .carousel-item img:nth-child(3){
+            width: 95.74px;
+            height: 15.2px;
+
+        }
+        
+        .carousel .carousel-item p{
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 22px;
+            text-align: center;
+            width: 466px;
+            margin-top: 20.11px;
+            min-height: 95px;
+            margin-left: auto;
+            margin-right: auto;
+    
+        }
+        .carousel-next-icon,.carousel-prev-icon{
+            width: 17.6px;
+            min-height: 35.2px;
+        }
+    .carousel .carousel-prev, .carousel .carousel-next {
+        position: absolute;
+        top: 172.22px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        opacity: 0.7;
+        text-align: center;
+        text-decoration: none;
+        
+    }
+    .carousel .carousel-prev:hover,.carousel-next:hover {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 50px;
+        
+    }
+    .carousel .carousel-prev {
+        left: 54.34px;
+        padding: 10px 21px 10px 16px;
+    
+    }
+    .carousel .carousel-next {
+        right: 54.34px;
+        padding: 10px 16px 10px 21px;
+    }
+
+
+
+    .video{
+        margin-top: 51px;
+        margin-bottom: 51px;
+
+    }
+    .video>div iframe{
+        width: 641px;
+height: 377px;
+    }
+
+
+    .form{
+        
+        width: 640px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 51px;
+    }
+    .text_profile input[type=text],[type=tel],select{
+        background-color: rgba(16, 19, 58,0.15);
+        border-radius: 50px;
+        border: none;
+        width: 505px;
+
+       
+    }
+    .text_profile input,select{
+        font-family: inherit;
+        font-size: 24px;
+        line-height: 33px;
+        color: black;
+
+    }
+
+
+    .text_profile label:not(.form-radio-hidden){
+        font-size: 22px;
+        line-height: 30px;
+        width: 128px;
+        display: inline-flex;
+        
+
+    }
+     .text_profile{
+        display: flex;
+        flex-direction: column;
+        row-gap: 57px;
+        align-items: flex-start;
+    }
+    .profile .head{
+        font-weight: 700;
+        width: 570px;
+        display: block;
+        padding-bottom: 10.5px;
+        color: #10133A;
+        border-bottom: 3px solid black;
+        margin-bottom: 53px;
+        border-bottom: 3px solid;
+        border-image: 
+        linear-gradient(
+           to left, 
+           #F6CF45, 
+           #EF4621
+        ) 1;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .trainings_img{display: none;}
+    .text_profile select {
+        appearance: none;
+        background: url(../img/line1.svg)  no-repeat  rgba(16, 19, 58,0.15);
+       
+        background-position: right 30px center;
+        -webkit-appearance: none;
+        appearance:none;
+        padding-right: 30px;
+        }
+        select:focus {
+            background: url(../img/line.svg) no-repeat right  rgba(16, 19, 58,0.15);
+            background-position: right 30px center;
+        }
+        
+    .address {
+        margin-bottom: 41px;
+        display: flex;
+        flex-direction: row;
+            }
+            .address1{
+                display: flex;
+                flex-direction: column;
+                row-gap: 18px;
+                justify-content: flex-start;
+              
+            }
+    
+            .form-radio-hidden{
+                display: flex;
+                flex-direction: row;
+                position: relative;
+                align-items: center;
+              }
+              
+              /* Скрываем штатные радио-кнопки */
+              .form-radio-hidden input{
+                position: absolute;
+                opacity: 0;
+                display: block;
+                height: 0;
+                width: 0;
+              }
+              
+              /* Устанавливаем параметры элементов, заменяющих штатные радио-кнопки */
+              .form-radio-hidden .radio{
+                appearance: none;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                display: block;
+                position: relative;
+                width: 36px;
+height: 37px;
+                border-radius: 50%;
+                border: 2px solid black;
+                background-color: white;
+                box-shadow: 0 0 4px 0 rgba(0,0,0,0.1);
+                outline: none;
+                box-sizing: border-box;
+                transition: .5s all;
+              }
+              
+              /* Устанавливаем параметры элементов, заменяющих штатные радио-кнопки при наведении */
+              .form-radio-hidden:hover .radio{
+                background-color: white;
+                box-shadow: inset 1px 2px 3px 0 rgba(0,0,0,0.1);
+              }
+              
+              /* Устанавливаем параметры элементов, заменяющих штатные выбранные радио-кнопки */
+              .form-radio-hidden input:checked + .radio{
+                border-color: black;
+                background-color: white;
+                box-shadow: inset 1px 2px 3px 0 rgba(0,0,0,0.1);
+              }
+              
+              /* Добавляем декор */
+              .form-radio-hidden:hover .radio::before, .form-radio-hidden input:checked + .radio::before{
+                content: '';
+                position: absolute;
+                width: 14px;
+height: 15px;
+                border-radius: 7px;
+                background-color: black;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+              }
+              .form-radio-hidden input:checked + .radio::before{
+                background-color: black;
+                box-shadow: 1px 2px 2px 0 rgba(0,0,0,0.2);
+              }
+              
+              /* Устанавливаем параметры подписей радио-кнопок */
+              .form-radio-hidden input + .radio + .label{
+                color: #777;
+                font-family: inherit;
+                margin-left: 22px;
+                align-self: center;
+                font-size: 22px;
+line-height: 30px;
+                color: #000000;
+              }
+              
+              /* Устанавливаем параметры подписей выбранных радио-кнопок */
+           
+                .profile button{
+                    width: 225px;
+                    height: 69px;
+                    background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+                    border-radius: 50px;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 33px;
+                    color: #FFFFFF;
+                    position: relative;
+                    left: 50%;
+                    transform: translate(-50%, 0);
+                }
+     .map{
+        height: 401px;
+     }
+     .mapblock{
+        max-width: 480px;
+       height: 100%;
+        margin-left: auto;
+        width: 100%;
+        
+        
+     }
+     .mapcall{
+        width: 291px;
+        height: 401px;
+        background-color: #F4F5FF;
+        position: relative;
+        top: -401px;
+        padding: 59px 53px 52px 52px;
+        
+     }
+     
+    .mapcontact>div+div{
+        margin-top: 55px;
+    }
+    .mapcontact h2{
+        font-weight: 700;
+        display: flex;
+        width: 129px;
+        padding-bottom: 14.5px;
+        color: #10133A;
+        margin-bottom: 38px;
+        border-bottom: 3px solid;
+        border-image: 
+        linear-gradient(
+           to left, 
+           #F6CF45, 
+           #EF4621
+        ) 1; 
+    }
+    .map-tel:nth-child(1) svg{
+       margin-right: 12.86px;
+       width: 13.86px;
+        height: 13.67px;
+    }
+    .map-tel:nth-child(2) svg{
+        margin-right: 13.51px;
+        width: 12.56px;
+        height: 17.12px; 
+        margin-top: 7px;   
+     }
+    .map-tel{
+        font-size: 16px;
+        line-height: 22px;
+      
+    }
+    .street{
+        margin-left: 26.07px;
+    }
+       .mapcontact button,.modal button{
+        width: 186px;
+height: 42px;
+        background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+        border-radius: 50px;
+        font-weight: 700;
+        font-size: 16px;
+line-height: 22px;
+        color: #FFFFFF;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+        margin-top: 64px;
+       } 
+       .overlay {
+   
+        /* Скрываем подложку  */
+        opacity: 0;
+        visibility: hidden;
+        
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, .5);
+        z-index: 20;
+        transition: .3s all;
+     }
+     
+     
+     /* Стили для модальных окон */
+     
+     .modal {
+        
+        /* Скрываем окна  */
+        opacity: 0;
+        visibility: hidden;
+        
+        
+        /*  Установаем ширину окна  */
+        width: 468px;
+        min-height: 331.76px;
+        
+        /*  Центрируем и задаем z-index */
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 30; /* Должен быть выше чем у подложки*/
+        
+        /*  Побочные стили   */
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        text-align: center;
+        padding: 31px;
+        border-radius: 3px;
+        background-color: #F4F5FF;
+        transition: 0.3s all;
+     }
+     
+     
+     /* Стили для активных классов подложки и окна */
+     
+     .modal.active,
+     .overlay.active{
+        opacity: 1;
+        visibility: visible;
+     }
+     
+     
+     /* Стили для кнопки закрытия */
+     
+     .modal__cross {
+        width: 16.29px;
+        height: 16.29px;
+        position: absolute;
+        top: 11px;
+        right: 13.71px;
+     }
+     .modal>div{
+        display: flex;
+        flex-direction: column;
+     }
+     .modal p:nth-of-type(2){
+        font-size: 16px;
+        line-height: 22px;
+     }
+     .modal__title{
+        font-weight: 700;
+        text-align: center;
+        color: #10133A;
+        margin-bottom: 31px;
+        font-size: 24px;
+        line-height: 33px;
+     }
+
+     .modal input {
+        width: 278px;
+        height: 38px;
+        margin-top: 23px;
+        background-color: rgba(16, 19, 58,0.15);
+        border-radius: 50px;
+        border: none;
+        margin-left:29px;
+        
+     }
+     .modal label{
+        font-size: 20px;
+line-height: 27px;
+margin-right: auto;
+     }
+     .modal input::placeholder{
+        font-size: 20px;
+        line-height: 27px;
+     }
+     .modal button{
+        margin-top: 41px;
+        left: 50%;
+        display: inherit;
+     }
+     
+
+    .footer-nav ul{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        column-gap: 49px;
+        color:  white;
+    }
+    .footer-nav img{
+        width: 86.87px;
+        height: 49.57px;
+    }
+    footer{
+        height: 84px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    input,select{
+        padding-left: 39px;
+     }
+}
+
+
+
+
+
+@media (min-width: 1440px) {
+
+header{
+    color: #10133A;
+    font-size: 22px;
+}
+
+.header-row {
+    padding: 36px 0px 35px 0px;
+    max-height: 235px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    row-gap: 22px;
+}
+.burger{
+    display:none;
+}
+
+.header-contact>div{
+    display: flex;
+    align-items: center;
+    column-gap: 22px;
+}
+.header-contact>div a{
+    padding-left: 24px;
+    
+}
+
+.header-tel{
+    width: 299px;
+    height: 81px;
+    border: solid #10133A 2px;
+    border-radius: 50px;
+    padding: 26px 0px 25px 0px;
+}
+.header-tel img{
+    padding-top: 3px;
+    padding-right: 20.99px;
+}
+.header-nav{
+    background-color: #10133A;
+    height: 61px;
+    padding-top: 16px;
+    padding-left: 102px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.header-nav a{
+    display: inline-block;
+    width: 130px;
+}
+.header-nav ul{
+    display: flex;
+    column-gap: 250px;
+    color:  white;
+    
+}
+
+.home {
+	height: 728px;
+    padding-top: 169px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.home-heading {
+	color: #10133A;
+	font-weight: 700;
+	font-size: 48px;
+    max-width: 691px;
+}
+
+
+.home-text {
+	line-height: 41px;
+	max-width: 365px;
+    font-size: 30px;
+    margin-top: 25px;
+}
+.btn-head
+{
+    display: none;
+}
+.home-img
+{
+	position: relative;
+    width: 581px;
+    top: -324px;
+    left: 680px;
+}
+
+.home-img2{
+    display: none;
+}
+.pref>div{
+    background-color: #F4F5FF;
+    display: flex;
+    column-gap: 90px;
+    padding-top: 97px;
+    padding-bottom: 53px;
+}
+.btn-pref{
+    font-weight: 600;
+    align-self: flex-start;
+    text-align: start;
+}
+.btn-pref-active{
+    background-color: #10133A;
+    width: 439px;
+    min-height: 69px;
+    color: white;
+    font-weight: 700;
+    border-left: 5px solid;
+    border-image: 
+    linear-gradient(
+       to bottom, 
+       #F6CF45, 
+       #EF4621
+    ) 1 100%;
+    padding-left: 21px;
+}
+.home-img2{
+    display: none;
+}
+.nav-pref{
+   
+    display: flex;
+    flex-direction: column;
+    row-gap: 94px;
+    line-height: 30px;
+    min-height: 421px;
+    width: 440px;
+    border-right: 5px solid;
+    border-image: 
+    linear-gradient(
+       to top, 
+       #F6CF45, 
+       #EF4621
+    ) 1 100%;
+}
+.pref_mobile{
+    display: none;
+}
+.description{
+    width:621px;
+}
+.img{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 156px;
+    margin-bottom: 51px; 
+}
+.text{
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    color: #343434;
+}
+.coach{
+    margin-bottom: 90px;
+}
+.coaches{
+    display: flex;
+    column-gap: 164px;
+    margin-top: 90px;
+}
+.coaches>div>h2{
+    font-weight: 700;
+    display: inline-block;
+    font-size: 36px;
+    line-height: 49px;
+    padding-bottom: 13px;
+    color: #10133A;
+    border-bottom: 3px solid black;
+    margin-bottom: 50px;
+    border-bottom: 3px solid;
+    border-image: 
+    linear-gradient(
+       to left, 
+       #F6CF45, 
+       #EF4621
+    ) 1;
+   
+}
+.coaches{
+    margin-bottom: 34px;
+}
+.coaches>div{
+    min-height: 165px;
+    width: 532px;
+ 
+}
+.coaches img{
+
+   width: 539px;
+height: 375px;
+}
+.trainings{
+    display: flex;
+    column-gap: 152px;
+
+}
+.trainings>div{
+    text-align: end;
+}
+.trainings>div>h2{
+    font-weight: 700;
+    display: inline-block;
+    font-size: 36px;
+    line-height: 49px;
+    padding-bottom: 14px;
+    color: #10133A;
+    border-bottom: 3px solid black;
+    margin-top: 66px;
+    margin-bottom: 50px;
+    border-bottom: 3px solid;
+    border-image: 
+    linear-gradient(
+       to left, 
+       #F6CF45, 
+       #EF4621
+    ) 1;
+}
+.trainings>div>p{
+    width: 659px;
+    min-height: 165px;
+}
+
+
+.carousel {
+ 
+    position: relative;
+    max-width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F4F5FF;
+     height: 617px;
+}
+    .carousel .carousel-indicators {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 15;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        list-style: none;
+    }
+        .carousel .carousel-indicators li {
+            flex: 0 1 auto;
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+            margin-left: 5px;
+            background-color: #343a40;
+            border: 2px solid #fff;
+            border-radius: 50%;
+        }
+        .carousel .carousel-indicators .active {
+            background-color: #025fff;
+        }
+    .carousel .carousel-window {
+        padding-top: 41px;
+        position: relative;
+        overflow: hidden;
+    }
+    .carousel .carousel-slides {
+        display: flex;
+        transition: transform 0.5s;
+    }
+
+    .carousel .carousel-item h2{
+        display: block;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 49px;
+        padding-bottom: 14px;
+        color: #10133A;
+        border-bottom: 3px solid black;
+        margin-bottom: 50px;
+        margin-right: 644px;
+        margin-left: 644px;
+        text-align: center;
+        border-bottom: 3px solid;
+    border-image: 
+    linear-gradient(
+       to left, 
+       #F6CF45, 
+       #EF4621
+    ) 1;
+       
+    }
+    .carousel .carousel-item img:nth-of-type(1){
+        width: 198px;
+        height: 198px;
+    }
+        .carousel .carousel-item img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 41px;
+       
+        }
+        .carousel .carousel-item p{
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 33px;
+            text-align: center;
+            width: 837px;
+            margin-top: 34px;
+            min-height: 99px;
+            margin-left: auto;
+            margin-right: auto;
+    
+        }
+    .carousel .carousel-prev, .carousel .carousel-next {
+        position: absolute;
+        top: 319px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        opacity: 0.7;
+        text-align: center;
+        text-decoration: none;
+        
+    }
+    .carousel .carousel-prev:hover, .carousel .carousel-next:hover {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 50px;
+       
+        
+    }
+   
+    .carousel .carousel-prev {
+        left: 85px;
+        padding: 17px 39px 17px 28px;  
+    
+    }
+    .carousel .carousel-next {
+        right: 85px;
+        padding: 17px 28px 17px 39px;
+    }
+
+.trainings_img{display: none;}
+
+
+    .video{
+        margin-top: 90px;
+        margin-bottom: 90px;
+    }
+
+
+    .form{
+        
+        width: 856px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 90px;
+    }
+    .text_profile input[type=text],[type=tel],select{
+        background-color: rgba(16, 19, 58,0.15);
+        border-radius: 50px;
+        border: none;
+        width: 649px;
+    
+        margin-left: 45px;
+       
+    }
+    .text_profile input,select{
+        font-family: inherit;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 41px;
+        color: black;
+
+    }
+    .text_profile input[type=radio]{
+        margin-left: 45px;
+    }
+    .text_profile label:not(.form-radio-hidden){
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 38px;
+        width: 142px;
+        display: inline-flex;
+        
+
+    }
+     .text_profile{
+        display: flex;
+        flex-direction: column;
+        row-gap: 79px;
+        align-items: flex-start;
+    }
+    .profile .head{
+        font-weight: 700;
+        display: block;
+        font-size: 36px;
+        line-height: 49px;
+        padding-bottom: 14px;
+        color: #10133A;
+        border-bottom: 3px solid black;
+        margin-bottom: 91px;
+        border-bottom: 3px solid;
+        border-image: 
+        linear-gradient(
+           to left, 
+           #F6CF45, 
+           #EF4621
+        ) 1;
+    }
+
+    .text_profile select {
+        appearance: none;
+        background: url(../img/line1.svg)  no-repeat  rgba(16, 19, 58,0.15);
+        background-position: right 30px center;
+        -webkit-appearance: none;
+        appearance:none;
+        padding-right: 30px;
+        }
+        select:focus {
+            background: url(../img/line.svg) no-repeat right  rgba(16, 19, 58,0.15);
+            background-position: right 30px center;
+        }
+        
+    .address {
+        margin-bottom: 61px;
+        display: flex;
+        flex-direction: row;
+            }
+            .address1{
+                display: flex;
+                flex-direction: column;
+                row-gap: 35px;
+                justify-content: flex-start;
+                margin-left: 45px;
+            }
+    
+            .form-radio-hidden{
+                display: flex;
+                flex-direction: row;
+                height: 28px;
+                position: relative;
+                align-items: center;
+              }
+              
+              /* Скрываем штатные радио-кнопки */
+              .form-radio-hidden input{
+                position: absolute;
+                opacity: 0;
+                display: block;
+                height: 0;
+                width: 0;
+              }
+              
+              /* Устанавливаем параметры элементов, заменяющих штатные радио-кнопки */
+              .form-radio-hidden .radio{
+                appearance: none;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                display: block;
+                position: relative;
+                height: 48px;
+                width: 48px;
+                border-radius: 50%;
+                border: 2px solid black;
+                background-color: white;
+                box-shadow: 0 0 4px 0 rgba(0,0,0,0.1);
+                outline: none;
+                box-sizing: border-box;
+                transition: .5s all;
+              }
+              
+              /* Устанавливаем параметры элементов, заменяющих штатные радио-кнопки при наведении */
+              .form-radio-hidden:hover .radio{
+                background-color: white;
+                box-shadow: inset 1px 2px 3px 0 rgba(0,0,0,0.1);
+              }
+              
+              /* Устанавливаем параметры элементов, заменяющих штатные выбранные радио-кнопки */
+              .form-radio-hidden input:checked + .radio{
+                border-color: black;
+                background-color: white;
+                box-shadow: inset 1px 2px 3px 0 rgba(0,0,0,0.1);
+              }
+              
+              /* Добавляем декор */
+              .form-radio-hidden:hover .radio::before, .form-radio-hidden input:checked + .radio::before{
+                content: '';
+                position: absolute;
+                width: 20px;
+                height: 20px;
+                border-radius: 10px;
+                background-color: black;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+              }
+              .form-radio-hidden input:checked + .radio::before{
+                background-color: black;
+                box-shadow: 1px 2px 2px 0 rgba(0,0,0,0.2);
+              }
+              
+              /* Устанавливаем параметры подписей радио-кнопок */
+              .form-radio-hidden input + .radio + .label{
+                color: #777;
+                font-family: inherit;
+                margin-left: 28px;
+                align-self: center;
+                font-size: 28px;
+                line-height: 38px;
+                color: #000000;
+                font-weight: 400;
+              }
+              
+              /* Устанавливаем параметры подписей выбранных радио-кнопок */
+              .form-radio-hidden input:checked + .radio + .text_profile{
+                color: #555;
+              }
+                .profile button{
+                    width: 225px;
+                    height: 69px;
+                    background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+                    border-radius: 50px;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 33px;
+                    color: #FFFFFF;
+                    position: relative;
+                    left: 50%;
+                    transform: translate(-50%, 0);
+                }
+     .map{
+        height: 752px;
+     }
+     .mapblock{
+        max-width: 1444px;
+       height: 100%;
+        margin: auto;
+        width: 100%;
+        
+        
+     }
+     .mapcall{
+        width: 385px;
+        background-color: #F4F5FF;
+        position: relative;
+        top: -643px;
+        left: 102px;
+        padding: 39px 50px 52px 50px;
+        
+     }
+     
+    .mapcontact>div+div{
+        margin-top: 65px;
+    }
+    .mapcontact h2{
+        font-weight: 700;
+        display: flex;
+        width: 185px;
+        font-size: 36px;
+        line-height: 49px;
+        padding-bottom: 14px;
+        color: #10133A;
+        border-bottom: 3px solid black;
+        margin-bottom: 57px;
+        border-bottom: 3px solid;
+        border-image: 
+        linear-gradient(
+           to left, 
+           #F6CF45, 
+           #EF4621
+        ) 1; 
+    }
+    .map-tel svg{
+       margin-right: 24px;
+    }
+    .map-tel>.street{
+        margin-left: 49px;
+    }
+       .mapcontact button,.modal button{
+        width: 284px;
+        height: 73px;
+        background: linear-gradient(90deg, #EF4621 0%, #F6CF45 100%);
+        border-radius: 50px;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 33px;
+        color: #FFFFFF;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+        margin-top: 88px;
+       } 
+       .overlay {
+   
+        /* Скрываем подложку  */
+        opacity: 0;
+        visibility: hidden;
+        
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, .5);
+        z-index: 20;
+        transition: .3s all;
+     }
+     
+     
+     /* Стили для модальных окон */
+     
+     .modal {
+        
+        /* Скрываем окна  */
+        opacity: 0;
+        visibility: hidden;
+        
+        
+        /*  Установаем ширину окна  */
+        width: 100%;
+        width: 821px;
+        min-height: 582px;
+        
+        /*  Центрируем и задаем z-index */
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 30; /* Должен быть выше чем у подложки*/
+        
+        /*  Побочные стили   */
+        box-shadow: 0 3px 10px -.5px rgba(0, 0, 0, .2); 
+        text-align: center;
+        padding: 30px;
+        border-radius: 10px;
+        background-color: #F4F5FF;
+        transition: 0.3s all;
+     }
+     
+     
+     /* Стили для активных классов подложки и окна */
+     
+     .modal.active,
+     .overlay.active{
+        opacity: 1;
+        visibility: visible;
+     }
+     
+     
+     /* Стили для кнопки закрытия */
+     
+     .modal__cross {
+        width: 38.48px;
+        height: 38.48px;
+        position: absolute;
+        top: 20px;
+        right: 25.79px;
+        fill: #444;
+     }
+     .modal>div{
+        display: flex;
+        flex-direction: column;
+        row-gap: 67px;
+     }
+     .modal__title{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 49px;
+        text-align: center;
+        color: #10133A;
+        margin-bottom: 67px;
+     }
+     .modal input{
+        width: 532px;
+ height: 85px;   
+background:rgba(16, 19, 58,0.15);
+color: #000000;
+border-radius: 50px;
+margin-left: 53px;
+margin-top: 67px;
+     }
+     .modal input::placeholder{
+        font-size: 30px;
+line-height: 41px;
+
+
+
+     }  
+      .modal .call1{
+        margin-top: 67px;
+        width: 284px;
+height: 73px;
+display: inherit;
+right: 50%;
+            transform: translate(-50%, 0);
+
+     }
+     
+
+    .footer-nav ul{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        column-gap: 131px;
+        color:  white;
+        
+    }
+footer{
+    min-height: 158px;
+   
+}
+.menu{
+    display: none;
+}
+input,select{
+    padding-left: 50px;
+ }
+}
+.header .logo{
+    transition: 0.2s;
+}
+.header .logo:hover{
+    fill: #EF4621;
+   
+}
+.header-nav a:hover,footer a:hover{
+font-weight: 700;
+color: #FFFFFF;
+opacity: 0.7;
+
+}
+input::placeholder{
+    color: black;
+}
+.carousel .carousel-item img:nth-of-type(1){
+    border-radius: 100%;
+    object-fit: cover;
+}
+.scrollup{
+    min-width:20px;
+    min-height:20px;
+    opacity:0.8;
+    position:fixed;
+    bottom:20px;
+    right:30px;
+    display:none;
+    text-indent:-9999px;
+    background: url("../img/209129208178208179.svg") no-repeat;
+    }
+    .btn-head:hover{
+        opacity: 0.5;
+    }
+    .btn-head{
+        transition: 0.3s;
+    }
